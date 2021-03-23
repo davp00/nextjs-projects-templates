@@ -1,0 +1,6 @@
+node_modules
+.next
+/*.js
+.prettierrc.js
+/apollo/graphql.tsx
+/i18n.ts
